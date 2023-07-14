@@ -32,7 +32,7 @@
         "splitter",
         "hide-element",
         "code",
-        "theme-d4t",
+        "theme-d4t-tsingley",
         "-lunr",
         "-search",
         "-sharing",
@@ -51,7 +51,7 @@
     ],
     "variables":
     {
-        "d4t":
+        "d4t-tsingley":
         {
             "nav":
             [
@@ -80,7 +80,7 @@
                 ".treeview__main-title"
             ]
         },
-        "d4t":
+        "d4t-tsingley":
         {
             "search-placeholder": "请输入关键字搜索",
             "logo": "/README.assets/logo.svg",
